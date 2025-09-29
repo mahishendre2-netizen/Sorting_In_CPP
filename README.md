@@ -73,7 +73,8 @@ Display the sorted array.
 
 End.
 
-Bubble Sort
+# Bubble Sort
+
 Start.
 
 Input n (size of array).
